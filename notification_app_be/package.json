@@ -1,0 +1,12 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Backend Notification Service with Priority Inbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

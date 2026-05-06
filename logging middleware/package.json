@@ -1,0 +1,8 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware that sends structured logs to the evaluation test server",
+  "main": "index.js",
+  "keywords": ["logging", "middleware", "evaluation"],
+  "license": "ISC"
+}

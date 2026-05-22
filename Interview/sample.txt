@@ -1,0 +1,19 @@
+3 APIs , CREATE , READ, UPDATE , Expense Tracker
+
+4 fields
+
+Date , category, amount , descp, userId array 
+
+Authentication, 
+
+READ
+1. all the expenses for this month, for an userId , how much i have to give net amount
+
+
+50 mins
+
+express
+jsonwebtoken
+dotenv
+bcrypt
+zod

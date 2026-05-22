@@ -38,6 +38,7 @@ function optimizeMaintenanceSchedule(tasks, availableHours) {
     };
 }
 
+
 app.get('/schedule', async (req, res) => {
     const BASE_URL = "http://20.207.122.201/evaluation-service";
 
